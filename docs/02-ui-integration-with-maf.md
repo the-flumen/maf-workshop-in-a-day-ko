@@ -138,6 +138,7 @@ save-points/
 
     ```csharp
     // AG-UI 등록하기
+    // AG_UI를 쓸거야. 하는 것
     builder.Services.AddAGUI();
     ```
 
